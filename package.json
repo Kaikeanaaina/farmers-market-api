@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ChazAttack73/farmers-market#readme",
   "dependencies": {
     "angular-stripe": "^4.2.11",
-    "bcrypt": "^0.8.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
